@@ -10,9 +10,16 @@ Pierce. The [original examples](
 http://www.cis.upenn.edu/~bcpierce/tapl/checkers/) written in OCaml are 
 partially included in this repository for reference.
 
-Other Python code is written by [DecentFoX Studio](https://decentfox.com) and 
-released under BSD license.
+Unless specified individually, other Python code is written by 
+[DecentFoX Studio](https://decentfox.com) and released under BSD license.
+
+Diff Index:
+
+* [4.1 Syntax](https://github.com/decentfox/TAPL/compare/4.0...4.1)
+* [4.2 Evaluation](https://github.com/decentfox/TAPL/compare/4.1...4.2)
+* [4.3 The Rest of the Story](https://github.com/decentfox/TAPL/compare/4.2...4.3)
 
 References:
 
 * https://github.com/frutiger/tapl/
+* http://www.dabeaz.com/ply/ply.html
